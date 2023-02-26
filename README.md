@@ -1,1 +1,1 @@
-This is Daniel J. Gomez's personal website or [webcyte](link)
+This is Daniel J. Gomez's personal website or [webcyte](dangomez.info)
