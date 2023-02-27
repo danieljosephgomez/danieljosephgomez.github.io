@@ -1,1 +1,1 @@
-This is Daniel J. Gomez's personal [webcyte](https://dangomez.info)
+Personal [webcyte](https://dangomez.info) for Daniel Gomez. 
