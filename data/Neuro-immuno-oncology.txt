@@ -1,0 +1,5 @@
+Neuro-immuno-oncology 
+
+The scope and field of neuro-immuno-oncology could be defined as follows:
+
+Neuro-immuno-oncology is an interdisciplinary field that focuses on the molecular and structural basis of the interactions between the nervous system, the immune system, and cancer cells. It encompasses the use of various techniques in neurobiology, immunology, oncology, biochemistry, quantitative biology, biophysics, and structural biology to understand the complex interplay between these systems at the molecular level. The goal of this field is to identify the underlying mechanisms and structures that govern neuro-immuno-oncological phenomena, such as the role of immune cells in brain tumor development or the effects of cancer on the nervous system, and to develop innovative approaches for diagnosis, treatment, and prevention of neuro-immuno-oncological disorders.
