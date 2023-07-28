@@ -1,1 +1,1 @@
-Personal [webcyte](https://dangomez.info) for Daniel Gomez. 
+Personal [webcyte](https://danielgomez.bio) for Daniel Gomez. 
