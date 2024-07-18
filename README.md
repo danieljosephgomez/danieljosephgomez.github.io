@@ -1,1 +1,1 @@
-Personal [website](https://gomez-dan.github.io) for Daniel Gomez. 
+Personal [website](https://gomezdj.github.io) for Daniel Gomez. 
