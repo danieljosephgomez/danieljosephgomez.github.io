@@ -80,29 +80,29 @@ th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Lato', Verdana, Ariel, Helvetica, sans-serif;
   font-size: 14px;
   width: 100%;
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Lato', Verdana, Ariel, Helvetica, sans-serif;
   font-size: 14px;
 }
 
 heading {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Lato', Verdana, Ariel, Helvetica, sans-serif;
   font-size: 22px;
 }
 
 papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Lato', Verdana, Ariel, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 700
 }
 
 name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Lato', Verdana, Ariel, Helvetica, sans-serif;
   font-size: 32px;
 }
 
@@ -119,6 +119,18 @@ name {
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
   -webkit-transition: opacity .2s ease-in-out;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: space-between; /* Or "center" to center them */
+    align-items: center;
+}
+
+.logo img {
+    max-width: 150px; /* Set a max-width for both logos */
+    height: auto; /* This keeps the aspect ratio intact */
+    margin-right: 20px; /* Adds space between logos */
 }
 
 .fade {
