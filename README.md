@@ -1,1 +1,1 @@
-Academic Portfolio [website](https://gomez-dan.github.io) for Daniel J. Gomez. 
+Academic Portfolio [website](https://djggomez.github.io) for Daniel J. Gomez. 
