@@ -1,4 +1,4 @@
-Daniel J. Gomez is a computational molecular biologist with expertise in topical medicine, medical microbiology, pharmacology, and neurovirology. His research integrates computational tools with structural, chemical, and systems biology to advance precision medicine.
+Daniel J. Gomez is a computational molecular biologist with expertise in tropical medicine, medical microbiology, pharmacology, and neurovirology. His research integrates computational tools with spatial, structural, chemical, and systems biology to advance precision medicine.
 
 Gomez's current work focuses on computational exercise molecular biology, utilizing multi-view advanced spatial genomics and spectral spatial clustering to explore cellular diversity. His ultimate goal is to bridge biological research and clinical applications to improve patient outcomes through biotechnology and bioengineering.
 
