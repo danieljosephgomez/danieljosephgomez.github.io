@@ -73,6 +73,50 @@
             </td>
           </tr>
         </tbody></table>
+
+		<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+
+    <!-- Main container card -->
+    <div class="bg-white p-8 sm:p-10 rounded-xl shadow-lg max-w-sm w-full text-center border border-gray-200">
+        
+        <!-- Header Section -->
+        <header class="mb-6">
+            <h1 class="text-2xl font-bold text-gray-800">Scan to See My Links</h1>
+            <p class="text-gray-500 mt-2">Point your camera at the code below to visit my Linktree profile.</p>
+        </header>
+
+        <!-- QR Code Display Area -->
+        <div class="flex justify-center mb-6">
+            <!-- Displaying the static QR code image -->
+            <img src="images/djgomez44.png" alt="QR Code for Linktree" class="p-4 bg-white border rounded-lg shadow-inner" style="width: 216px; height: 216px;">
+        </div>
+
+        <!-- Footer/Instruction Section -->
+        <footer class="mt-4">
+            <p class="text-sm text-gray-600">
+                Or visit my Linktree directly at: 
+                <a href="https://linktr.ee/djgomez44" id="qr-link" class="text-blue-600 hover:underline break-all">linktr.ee/djgomez44</a>
+            </p>
+        </footer>
+
+    </div>
+
+	    <script>
+	        // --- Configuration ---
+	        // You can still set this URL to make the link at the bottom work correctly.
+	        const websiteUrl = "https://linktr.ee/your_username";
+	
+	        document.addEventListener("DOMContentLoaded", function() {
+	            const qrLinkElement = document.getElementById('qr-link');
+	            
+	            // Set the link text and href
+	            qrLinkElement.href = websiteUrl;
+	            qrLinkElement.textContent = 'linktr.ee/your_username';
+	        });
+	    </script>
+
+	</body>
+		  
         <br>
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
